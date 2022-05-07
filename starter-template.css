@@ -1,0 +1,101 @@
+body {
+  padding-top: 5rem;
+  font-family: 'roboto', sans-serif;
+  max-width: 70rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  color: white;
+}
+
+header {
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  color: white;
+}
+
+img {
+  width: 100%;
+}
+
+.caption {
+  font-size: 14px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px
+}
+
+h1 {
+    font: 48px/52px 'roboto',sans-serif;
+    font-weight: 800;
+    padding-top: 30px;
+	color: white;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+  color: white;
+  font-weight: 900;
+  
+}
+
+p {
+  font-size: 20px;
+  color: white;
+  font-family: 'roboto', sans-serif;font-weight: 200;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white; 
+  border-radius: 50%;
+  font-size: 100px;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  border-radius: 50%;
+  font-size: 100px;
+}
+
+nav{
+	width: 100%;
+	height: 60px;
+	background-color:black;
+}
+
+nav p {
+	font-family:'roboto';
+	color: white;
+	font-size: 24px;
+	line-height: 55px;
+	float:left;
+	padding: 8px 14px;
+}
+
+nav ul{
+	float: left;
+}
+
+nav ul li{
+	float: left;
+	list-style: none;
+	position: relative;
+}
+
+nav ul li a {
+	display: block;
+	font-family: 'roboto'; 
+	background-color: none;
+	font-size: 24px;
+	padding: 24px 14px;
+	color: white;
+}
+
